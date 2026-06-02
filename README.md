@@ -185,7 +185,7 @@ response = openai.ChatCompletion.create(
 
 - **GitHub Issues** - 提问和反馈
 - **Discussions** - 讨论话题
-- **Email** - clearcdq@gmail.com
+- **Email** - 1940507222@qq.com
 
 ## 📄 许可证
 
